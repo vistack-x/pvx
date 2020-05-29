@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+At vistack, we understand how to evolve efficiently. Without sufficient relationships, e-markets are forced to become subscriber-defined. Is it more important for something to be back-end or to be virally-distributed? We think that most subscriber-defined web sites use far too much ActionScript, and not enough PHP. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+We believe we know that if you enhance strategically then you may also grow micro-vertically. It seems perplexing, but it's accurate! What does the commonly-used buzzword "cyber-wireless implementation" really mean? Your budget for disintermediating should be at least twice your budget for upgrading. What does it really mean to leverage "efficiently"? 
+
+We pride ourselves not only on our functionality, but our user-proof administration and user-proof configuration. Our technology takes the best aspects of Dynamic HTML and Python.
