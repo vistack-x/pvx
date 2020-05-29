@@ -7,6 +7,6 @@ tags:
   - quote
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+> "Live in the future and build what seems interesting. "
   
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+> <cite><a href="http://www.paulgraham.com/startupideas.html">Paul Graham</a></cite>
