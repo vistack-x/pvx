@@ -20,7 +20,10 @@ Back in 2012,Stephen Wolfram--the brain behind the Wolfram site, analysed his em
 For the more analytically inclined, he was able to show that more meaningful insights could be drawn from personal data. For example, analyzing his email archive helped him realize that most issues at his workplace resolved themselves by the end of the day without his intervention. His intervention would only have resulted in wastage of his time. 
 ![analytics](https://images.pexels.com/photos/106344/pexels-photo-106344.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
-      Just as Gartner’s Analytics Maturity Model (Descriptive, Diagnostic, Predictive, Prescriptive) applies to business analytics, it is quite possible in the near future that we will be able to apply the same model to Personal Analytics. Imagine a personal dashboard (Descriptive) refreshed every day, week, and year that helps you understand the impact of your behaviour and your actions on your health, wealth, social life, and other aspects of your life. Imagine then a visual application that allows you to deep-dive (Diagnostic) into the dashboard to help you understand why your savings dipped over the past year, or why your weight went up over the last month, and so on.
+--------------------
+
+
+Just as Gartner’s Analytics Maturity Model (Descriptive, Diagnostic, Predictive, Prescriptive) applies to business analytics, it is quite possible in the near future that we will be able to apply the same model to Personal Analytics. Imagine a personal dashboard (Descriptive) refreshed every day, week, and year that helps you understand the impact of your behaviour and your actions on your health, wealth, social life, and other aspects of your life. Imagine then a visual application that allows you to deep-dive (Diagnostic) into the dashboard to help you understand why your savings dipped over the past year, or why your weight went up over the last month, and so on.
 
 
 
